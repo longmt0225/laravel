@@ -1,4 +1,4 @@
-### README
+## README
 
 # Laragram
 ・LaravelとVue.jsを使った記事投稿アプリケーションです。  
