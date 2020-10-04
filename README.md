@@ -7,5 +7,10 @@
 ![記事一覧](https://github.com/longmt0225/laravel/blob/main/index.png)
 
 ## 主な使用言語
+![PHP]()
+![Laravel]()
+![JavaScript]()
+![Vue.js]()
+
 
  
