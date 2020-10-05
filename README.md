@@ -41,3 +41,8 @@
 
 ### 記事更新機能
 自分で投稿した記事を編集して更新することができます。
+![Animated GIF-downsized (4)](https://user-images.githubusercontent.com/69623233/95040102-a63e4480-070d-11eb-9c88-1827faf7b9db.gif)
+
+### 記事削除機能
+自分で投稿した記事を削除することができます。
+
