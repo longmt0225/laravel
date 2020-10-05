@@ -60,7 +60,7 @@ https://laragram-29239.herokuapp.com/
 
 # テーブル設計
 ## ER図
-<img src="https://github.com/longmt0225/laravel/blob/main/image.ER.png" width="500px">
+<img src="https://github.com/longmt0225/laravel/blob/main/image.ER.png" width="750px">
 
 ## usersテーブル
 
