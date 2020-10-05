@@ -25,7 +25,7 @@
 投稿された記事がトップページに一覧で表示されます。
 
 ### ユーザー登録機能<br>
-(https://gyazo.com/b2c0b56f79c3fe876a105cfa90975b33)<br>
+![Animated GIF-downsized](https://user-images.githubusercontent.com/69623233/95037302-830f9700-0705-11eb-91d9-1ac44cde7685.gif)<br>
 ユーザーがアカウントを登録できます。
 
 ### ログイン・ログアウト機能
