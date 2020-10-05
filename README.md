@@ -62,7 +62,72 @@ https://laragram-29239.herokuapp.com/
 ## ER図  
 <img src="https://github.com/longmt0225/laravel/blob/main/image.ER.png" width="750px">
 
-## usersテーブル
-
+## users テーブル
+| Column           | Type       | Options                        |
+| ---------------- | ---------- | ------------------------------ |
+| name             | string     | null: false, uniqueness: true  |
+| email            | string     | null: false, uniqueness: true  |
+| password         | string     | null: false                    |
+| articles         | references | null: false, foreign_key:true  |
+| likes            | references | null: false, foreign_key:true  |
+| follows          | references | null: false, foreign_key:true  |
 ### Association
+- has_many :articles, dependent: :destroy
+- has_many :likes, dependent: :destroy
+- has_many :follows, dependent: :destroy
+
+## follows テーブル
+| Column           | Type       | Options                        |
+| ---------------- | ---------- | ------------------------------ |
+| follower         | string     |                                |
+| followee         | string     |                                |
+| user             | references | null: false, foreign_key:true  |
+### Association
+- belongs_to :user
+
+## likes テーブル
+| Column           | Type       | Options                        |
+| ---------------- | ---------- | ------------------------------ |
+| user             | references | null: false, foreign_key:true  |
+| article          | references | null: false, foreign_key:true  |
+### Association
+- belongs_to :user
+- belongs_to : article
+
+## articles テーブル
+| Column           | Type       | Options                        |
+| ---------------- | ---------- | ------------------------------ |
+| title            | string     | null: false                    |
+| body             | string     | null: false                    |
+| user             | references | null: false, foreign_key:true  |
+| likes            | references | null: false, foreign_key:true  |
+| article_tag      | references | null: false, foreign_key:true  |
+### Association
+- belongs_to :user
+- has_many :likes, dependent: :destroy
+- has_many :article_tag, dependent: :destroy
+
+## article_tag テーブル
+| Column           | Type       | Options                        |
+| ---------------- | ---------- | ------------------------------ |
+| articles         | references | null: false, foreign_key:true  |
+| tags             | references | null: false, foreign_key:true  |
+### Association
+- belongs_to :article
+- belongs_to :tag
+
+## tags テーブル
+| Column           | Type       | Options                        |
+| ---------------- | ---------- | ------------------------------ |
+| name             | string     | null: false                    |
+| article_tag      | references | null: false, foreign_key:true  |
+### Association
+- has_many :article_tag
+
+
+
+
+
+
+
 
