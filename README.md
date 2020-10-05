@@ -20,6 +20,14 @@
 ・パスワード sample01  
 
 ## 実装した機能
-### ・記事一覧機能<br>
+### 記事一覧機能<br>
 <img src="https://github.com/longmt0225/laravel/blob/main/index.png" width="500px"><br>
 投稿された記事がトップページに一覧で表示されます。
+
+### ユーザー登録機能<br>
+<img src="" width="500px"><br>
+ユーザーがアカウントを登録できます。
+
+### ログイン・ログアウト機能
+<img src="https://github.com/longmt0225/laravel/blob/main/login.png" width="300px"> <img src="https://github.com/longmt0225/laravel/blob/main/logout.png" width="300px"><br>
+ユーザー登録後にログイン・ログアウトができます。
