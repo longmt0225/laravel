@@ -45,4 +45,16 @@
 
 ### 記事削除機能
 自分で投稿した記事を削除することができます。
+![Animated GIF-downsized (5)](https://user-images.githubusercontent.com/69623233/95040360-6592fb00-070e-11eb-8aa3-73fd31c886ab.gif)
+
+## 工夫したポイント
+・ビューにMDBootstrapというフレームワークを使用することでデザインを美しくしました。  
+・利用者が使いやすいようにシンプルなアプリケーションにすることを心掛けました。
+
+## 今後実装したい機能
+・画像投稿機能  
+・Googleアカウントを使ったユーザー登録機能
+
+## URL紹介
+https://laragram-29239.herokuapp.com/
 
