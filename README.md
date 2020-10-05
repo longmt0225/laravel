@@ -6,7 +6,7 @@
 <img src="https://github.com/longmt0225/laravel/blob/main/image.index.png">
 
 ## 主な使用言語
-<img src="https://github.com/longmt0225/laravel/blob/main/image.php.png" width="100px"> <img src="https://github.com/longmt0225/laravel/blob/main/image.Laravel.jpg" width="100px"> <img src="" width="100px"> <img src="" width="100px">  
+<img src="https://github.com/longmt0225/laravel/blob/main/image.php.png" width="100px"> <img src="https://github.com/longmt0225/laravel/blob/main/image.Laravel.jpg" width="100px"> <img src="https://github.com/longmt0225/laravel/blob/main/image.JavaScript.jpeg" width="100px"> <img src="https://github.com/longmt0225/laravel/blob/main/image.Vuejs.png" width="100px">  
 
 ## アプリケーション概要
 このアプリでは、ユーザーが自由に記事を投稿することができます。投稿するにはユーザー登録が必要です。自分が投稿した記事は更新や削除をすることもできます。  
