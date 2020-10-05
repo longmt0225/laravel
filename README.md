@@ -20,6 +20,6 @@
 ・パスワード sample01  
 
 ## 実装した機能
-・記事一覧機能<br>
-<img src="https://github.com/longmt0225/laravel/blob/main/index.png" width="500px">
+### ・記事一覧機能<br>
+<img src="https://github.com/longmt0225/laravel/blob/main/index.png" width="500px"><br>
 投稿された記事がトップページに一覧で表示されます。
