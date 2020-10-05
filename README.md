@@ -20,7 +20,7 @@
 
 # 実装した機能
 ## 記事一覧機能  
-投稿された記事がトップページに一覧で表示されます。
+投稿された記事がトップページに一覧で表示されます。  
 <img src="https://github.com/longmt0225/laravel/blob/main/image.index.png" width="500px">
 
 ## ユーザー登録機能  
@@ -28,23 +28,23 @@
 ![Animated GIF-downsized](https://user-images.githubusercontent.com/69623233/95037912-a0ddfb80-0707-11eb-862c-1da96af3763b.gif)
 
 ## ログアウト機能  
-ユーザー登録後にログアウトすることができます。
+ユーザー登録後にログアウトすることができます。  
 ![Animated GIF-downsized (1)](https://user-images.githubusercontent.com/69623233/95038268-adaf1f00-0708-11eb-8695-6ea9fc8f01ec.gif)
 
 ## ログイン機能
-ログアウト後にログインすることができます。
+ログアウト後にログインすることができます。  
 ![Animated GIF-downsized (2)](https://user-images.githubusercontent.com/69623233/95038681-b5bb8e80-0709-11eb-8c75-45c98ceecb50.gif)
 
 ## 記事投稿機能
-アカウントを登録したユーザーが記事を投稿することができます。
+アカウントを登録したユーザーが記事を投稿することができます。  
 ![Animated GIF-downsized (3)](https://user-images.githubusercontent.com/69623233/95039524-fae0c000-070b-11eb-9b1e-922e3f9b7f54.gif)
 
 ## 記事更新機能
-自分で投稿した記事を編集して更新することができます。
+自分で投稿した記事を編集して更新することができます。  
 ![Animated GIF-downsized (4)](https://user-images.githubusercontent.com/69623233/95040102-a63e4480-070d-11eb-9c88-1827faf7b9db.gif)
 
 ## 記事削除機能
-自分で投稿した記事を削除することができます。
+自分で投稿した記事を削除することができます。  
 ![Animated GIF-downsized (5)](https://user-images.githubusercontent.com/69623233/95040360-6592fb00-070e-11eb-8aa3-73fd31c886ab.gif)
 
 # 工夫したポイント
@@ -59,7 +59,7 @@
 https://laragram-29239.herokuapp.com/
 
 # テーブル設計
-## ER図
+## ER図  
 <img src="https://github.com/longmt0225/laravel/blob/main/image.ER.png" width="750px">
 
 ## usersテーブル
