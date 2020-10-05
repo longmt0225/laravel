@@ -21,5 +21,5 @@
 
 ## 実装した機能
 ・記事一覧機能
-<img src="https://github.com/longmt0225/laravel/blob/main/index.png" width=“500px">
+<img src="https://github.com/longmt0225/laravel/blob/main/index.png" width="500px">
 投稿された記事がトップページに一覧で表示されます。
