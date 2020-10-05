@@ -33,3 +33,5 @@
 
 ### ログイン機能
 ログアウト後にログインができます。
+![Animated GIF-downsized (2)](https://user-images.githubusercontent.com/69623233/95038681-b5bb8e80-0709-11eb-8c75-45c98ceecb50.gif)
+
