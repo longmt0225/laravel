@@ -25,7 +25,7 @@
 投稿された記事がトップページに一覧で表示されます。
 
 ### ユーザー登録機能<br>
-<img src="https://github.com/longmt0225/laravel/blob/main/gif.registration.mp4" width="500px"><br>
+<img src="https://gyazo.com/f76780ea531387aca435ca9addd965a8" width="500px"><br>
 ユーザーがアカウントを登録できます。
 
 ### ログイン・ログアウト機能
