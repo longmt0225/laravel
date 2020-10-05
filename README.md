@@ -21,10 +21,11 @@
 ## 実装した機能
 ### 記事一覧機能  
 投稿された記事がトップページに一覧で表示されます。
+<img src="https://github.com/longmt0225/laravel/blob/main/image.index.png" width="500px">
 
 ### ユーザー登録機能  
 ユーザーがアカウントを登録できます。  
-![Animated GIF-downsized](https://user-images.githubusercontent.com/69623233/95037302-830f9700-0705-11eb-91d9-1ac44cde7685.gif)
+(https://user-images.githubusercontent.com/69623233/95037302-830f9700-0705-11eb-91d9-1ac44cde7685.gif)
 
 ### ログイン・ログアウト機能  
 ユーザー登録後にログイン・ログアウトができます。
