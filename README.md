@@ -10,7 +10,7 @@
 <img src="https://github.com/longmt0225/laravel/blob/main/PHP.png" width="200px">
 <img src="https://github.com/longmt0225/laravel/blob/main/laravel.jpeg" width="200px">
 <img src="https://github.com/longmt0225/laravel/blob/main/JavaScript.jpeg" width="200px">
-<img src="hhttps://github.com/longmt0225/laravel/blob/main/vuejs.png" width="200px">
+<img src="https://github.com/longmt0225/laravel/blob/main/vuejs.png" width="200px">
 
 
  
