@@ -24,14 +24,20 @@
 <img src="https://github.com/longmt0225/laravel/blob/main/image.index.png" width="500px">
 
 ### ユーザー登録機能  
-ユーザーがアカウントを登録できます。  
+ユーザーがアカウントを登録することができます。  
 ![Animated GIF-downsized](https://user-images.githubusercontent.com/69623233/95037912-a0ddfb80-0707-11eb-862c-1da96af3763b.gif)
 
 ### ログアウト機能  
-ユーザー登録後にログアウトができます。
+ユーザー登録後にログアウトすることができます。
 ![Animated GIF-downsized (1)](https://user-images.githubusercontent.com/69623233/95038268-adaf1f00-0708-11eb-8695-6ea9fc8f01ec.gif)
 
 ### ログイン機能
-ログアウト後にログインができます。
+ログアウト後にログインすることができます。
 ![Animated GIF-downsized (2)](https://user-images.githubusercontent.com/69623233/95038681-b5bb8e80-0709-11eb-8c75-45c98ceecb50.gif)
 
+### 記事投稿機能
+アカウントを登録したユーザーが記事を投稿することができます。
+![Animated GIF-downsized (3)](https://user-images.githubusercontent.com/69623233/95039524-fae0c000-070b-11eb-9b1e-922e3f9b7f54.gif)
+
+### 記事更新機能
+自分で投稿した記事を編集して更新することができます。
