@@ -58,6 +58,11 @@
 ## URL紹介
 https://laragram-29239.herokuapp.com/
 
-## データベース設計
+## テーブル設計
+### ER図
+<img src="https://github.com/longmt0225/laravel/blob/main/image.ER.png" width="500px">
 
+### usersテーブル
+
+#### Association
 
