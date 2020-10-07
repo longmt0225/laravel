@@ -37,7 +37,7 @@
 
 ## 記事投稿機能
 アカウントを登録したユーザーが記事を投稿することができます。  
-![Animated GIF-downsized (3)](https://user-images.githubusercontent.com/69623233/95039524-fae0c000-070b-11eb-9b1e-922e3f9b7f54.gif)
+![Animated GIF-downsized (10)](https://user-images.githubusercontent.com/69623233/95290516-6364a400-08a8-11eb-9902-f49ff4e4232b.gif)
 
 ## 記事更新機能
 自分で投稿した記事を編集して更新することができます。  
