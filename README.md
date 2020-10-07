@@ -29,7 +29,7 @@
 
 ## ログアウト機能  
 ユーザー登録後にログアウトすることができます。  
-![Animated GIF-downsized (1)](https://user-images.githubusercontent.com/69623233/95038268-adaf1f00-0708-11eb-8695-6ea9fc8f01ec.gif)
+![Animated GIF-downsized (8)](https://user-images.githubusercontent.com/69623233/95290363-0b2da200-08a8-11eb-8931-4a86aac3cc4d.gif)
 
 ## ログイン機能
 ログアウト後にログインすることができます。  
