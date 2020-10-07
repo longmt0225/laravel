@@ -25,7 +25,7 @@
 
 ## ユーザー登録機能  
 ユーザーがアカウントを登録することができます。  
-![Animated GIF-downsized (7)]<div style="text-align: center;">(https://user-images.githubusercontent.com/69623233/95290289-d588b900-08a7-11eb-9491-bda92482d536.gif)</div>
+![Animated GIF-downsized (7)](<div style="text-align: center;">https://user-images.githubusercontent.com/69623233/95290289-d588b900-08a7-11eb-9491-bda92482d536.gif</div>)
 
 ## ログアウト機能  
 ユーザー登録後にログアウトすることができます。  
