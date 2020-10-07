@@ -3,7 +3,7 @@
 # Laragram
 ・Laravelを使った記事投稿アプリケーションです。  
 ・作成期間 2020/9/26〜2020/10/9（14日間） 
-<img src="https://github.com/longmt0225/laravel/blob/main/image.index.png">
+<img src="https://github.com/longmt0225/laravel/blob/main/image.index1.png">
 
 # 主な使用言語
 <img src="https://github.com/longmt0225/laravel/blob/main/image.php.png" width="100px"> <img src="https://github.com/longmt0225/laravel/blob/main/image.Laravel.jpg" width="100px"> 
@@ -21,7 +21,7 @@
 # 実装した機能
 ## 記事一覧機能  
 投稿された記事がトップページに一覧で表示されます。  
-<img src="https://github.com/longmt0225/laravel/blob/main/image.index.png" width="500px">
+<img src="https://github.com/longmt0225/laravel/blob/main/image.index1.png" width="500px">
 
 ## ユーザー登録機能  
 ユーザーがアカウントを登録することができます。  
