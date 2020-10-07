@@ -6,7 +6,7 @@
 <img src="https://github.com/longmt0225/laravel/blob/main/image.index.png">
 
 # 主な使用言語
-<img src="https://github.com/longmt0225/laravel/blob/main/image.php.png" width="100px"> <img src="https://github.com/longmt0225/laravel/blob/main/image.Laravel.jpg" width="100px"> <img src="https://github.com/longmt0225/laravel/blob/main/image.JavaScript.jpeg" width="100px"> <img src="https://github.com/longmt0225/laravel/blob/main/image.Vuejs.png" width="100px">  
+<img src="https://github.com/longmt0225/laravel/blob/main/image.php.png" width="100px"> <img src="https://github.com/longmt0225/laravel/blob/main/image.Laravel.jpg" width="100px"> 
 
 # アプリケーション概要
 このアプリでは、ユーザーが自由に記事を投稿することができます。投稿するにはユーザー登録が必要です。自分が投稿した記事は更新や削除をすることもできます。  
@@ -69,30 +69,8 @@ https://laragram-29239.herokuapp.com/
 | email            | string     | null: false, uniqueness: true  |
 | password         | string     | null: false                    |
 | articles         | references | null: false, foreign_key:true  |
-| likes            | references | null: false, foreign_key:true  |
-| follows          | references | null: false, foreign_key:true  |
 ### Association
 - has_many :articles, dependent: :destroy
-- has_many :likes, dependent: :destroy
-- has_many :follows, dependent: :destroy
-
-## follows テーブル
-| Column           | Type       | Options                        |
-| ---------------- | ---------- | ------------------------------ |
-| follower         | string     |                                |
-| followee         | string     |                                |
-| user             | references | null: false, foreign_key:true  |
-### Association
-- belongs_to :user
-
-## likes テーブル
-| Column           | Type       | Options                        |
-| ---------------- | ---------- | ------------------------------ |
-| user             | references | null: false, foreign_key:true  |
-| article          | references | null: false, foreign_key:true  |
-### Association
-- belongs_to :user
-- belongs_to : article
 
 ## articles テーブル
 | Column           | Type       | Options                        |
@@ -100,34 +78,5 @@ https://laragram-29239.herokuapp.com/
 | title            | string     | null: false                    |
 | body             | string     | null: false                    |
 | user             | references | null: false, foreign_key:true  |
-| likes            | references | null: false, foreign_key:true  |
-| article_tag      | references | null: false, foreign_key:true  |
 ### Association
 - belongs_to :user
-- has_many :likes, dependent: :destroy
-- has_many :article_tag, dependent: :destroy
-
-## article_tag テーブル
-| Column           | Type       | Options                        |
-| ---------------- | ---------- | ------------------------------ |
-| articles         | references | null: false, foreign_key:true  |
-| tags             | references | null: false, foreign_key:true  |
-### Association
-- belongs_to :article
-- belongs_to :tag
-
-## tags テーブル
-| Column           | Type       | Options                        |
-| ---------------- | ---------- | ------------------------------ |
-| name             | string     | null: false                    |
-| article_tag      | references | null: false, foreign_key:true  |
-### Association
-- has_many :article_tag
-
-
-
-
-
-
-
-
