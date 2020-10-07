@@ -53,7 +53,7 @@
 
 # 今後実装したい機能
 ・画像投稿機能  
-・Googleアカウントを使ったユーザー登録機能
+・フォロー機能
 
 # URL紹介
 https://laragram-29239.herokuapp.com/
