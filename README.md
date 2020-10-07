@@ -45,7 +45,7 @@
 
 ## 記事削除機能
 自分で投稿した記事を削除することができます。  
-![Animated GIF-downsized (5)](https://user-images.githubusercontent.com/69623233/95040360-6592fb00-070e-11eb-8aa3-73fd31c886ab.gif)
+![Animated GIF-downsized (12)](https://user-images.githubusercontent.com/69623233/95290709-dc63fb80-08a8-11eb-8741-a828fa9c6112.gif)
 
 # 工夫したポイント
 ・ビューにMDBootstrapというフレームワークを使用することでデザインを美しくしました。  
