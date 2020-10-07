@@ -33,7 +33,7 @@
 
 ## ログイン機能
 ログアウト後にログインすることができます。  
-![Animated GIF-downsized (2)](https://user-images.githubusercontent.com/69623233/95038681-b5bb8e80-0709-11eb-8c75-45c98ceecb50.gif)
+![Animated GIF-downsized (9)](https://user-images.githubusercontent.com/69623233/95290433-31ebd880-08a8-11eb-8286-1df7e464ebab.gif)
 
 ## 記事投稿機能
 アカウントを登録したユーザーが記事を投稿することができます。  
