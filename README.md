@@ -25,7 +25,7 @@
 
 ## ユーザー登録機能  
 ユーザーがアカウントを登録することができます。  
-<h2 align="center">![Animated GIF-downsized (7)](https://user-images.githubusercontent.com/69623233/95290289-d588b900-08a7-11eb-9491-bda92482d536.gif)</h2>
+![Animated GIF-downsized (7)](https://user-images.githubusercontent.com/69623233/95290289-d588b900-08a7-11eb-9491-bda92482d536.gif)
 
 ## ログアウト機能  
 ユーザー登録後にログアウトすることができます。  
@@ -33,7 +33,7 @@
 
 ## ログイン機能
 ログアウト後にログインすることができます。  
-![Animated GIF-downsized (9)](https://user-images.githubusercontent.com/69623233/95290433-31ebd880-08a8-11eb-8286-1df7e464ebab.gif)
+         ![Animated GIF-downsized (9)](https://user-images.githubusercontent.com/69623233/95290433-31ebd880-08a8-11eb-8286-1df7e464ebab.gif)
 
 ## 記事投稿機能
 アカウントを登録したユーザーが記事を投稿することができます。  
